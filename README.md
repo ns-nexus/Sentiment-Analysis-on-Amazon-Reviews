@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Sentiment+Analysis+on+Amazon+Reviews;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Sentiment+Analysis+on+Amazon+Reviews;" />
   <br>
   NLP Project: Analyzing Sentiments in Amazon Reviews
 
